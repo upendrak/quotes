@@ -14,7 +14,7 @@ To add to the list of quotes:
 
 ##The Quotes
 
-> Something unknown is doing we don't know what.
+> Something unknown is doing we don't know what - that is what our knowledge amounts to. 
 
 Sir Arthur Eddington, 1927  
 
