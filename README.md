@@ -26,3 +26,12 @@ Charles Darwin
 
 ---
 
+> A thing of beauty is a joy for ever.
+
+John Keats
+
+---
+
+> Live as if you were to die tomorrow. Learn as if you were to live forever.
+
+Mahatma Gandhi
