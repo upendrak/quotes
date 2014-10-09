@@ -96,3 +96,8 @@ Kaisa Kajala
 
 Albert Einstein on the theory of relativity
 
+---
+
+> Hell, if I could explain it to the average person, it wouldn't have been worth the Nobel prize.
+
+Richard Feynman
