@@ -47,3 +47,10 @@ Charles Darwin
 > If government were a product, selling it would be illegal.
 
 P. J. O'Rourke
+
+---
+
+> I have never let my schooling interfere with my education
+
+Mark Twain
+
