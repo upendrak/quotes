@@ -47,3 +47,9 @@ Charles Darwin
 > If government were a product, selling it would be illegal.
 
 P. J. O'Rourke
+
+---
+
+> I like the quote thing. Are people updating the quotes?
+
+Julin Maloof
