@@ -65,3 +65,9 @@ P. J. O'Rourke
 > I like the quote thing. Are people updating the quotes?
 
 Julin Maloof
+
+---
+
+> If all mankind were to disappear, the world would regenerate back to the rich state of equilibrium that existed ten thousand years ago. If insects were to vanish, the environment would collapse into chaos.
+
+E\. O. Wilson
