@@ -83,3 +83,7 @@ Computer
 > I have never let my schooling interfere with my education
 
 Mark Twain
+
+> I think I finally understand how some of this works! Maybe.
+
+Kaisa Kajala
