@@ -67,6 +67,6 @@ P. J. O'Rourke
 Julin Maloof
 ---
 
-> I think I finally understand how some of this works!
+> I think I finally understand how some of this works! Maybe.
 
 Kaisa Kajala
