@@ -84,6 +84,15 @@ Computer
 
 Mark Twain
 
+---
+
 > I think I finally understand how some of this works! Maybe.
 
 Kaisa Kajala
+
+---
+
+> I thought of that while riding my bicycle.
+
+Albert Einstein on the theory of relativity
+
