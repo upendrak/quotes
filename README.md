@@ -44,6 +44,18 @@ Charles Darwin
 
 ---
 
+> Why should you call me to account for eating decently?
+
+George Bernard Shaw
+
+---
+
+> Just when I discovered the meaning of life, they changed it.
+
+George Carlin
+
+---
+
 > If government were a product, selling it would be illegal.
 
 P. J. O'Rourke
