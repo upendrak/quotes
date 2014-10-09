@@ -41,3 +41,9 @@ Mahatma Gandhi
 > I carefully described to Huxley the shooting of the pollinia in Catasetum, and received for an answer, 'Do you really think I can believe all that?
 
 Charles Darwin
+
+---
+
+> If government were a product, selling it would be illegal.
+
+P. J. O'Rourke
