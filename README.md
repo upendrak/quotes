@@ -65,3 +65,8 @@ P. J. O'Rourke
 > I like the quote thing. Are people updating the quotes?
 
 Julin Maloof
+---
+
+> I think I finally understand how some of this works!
+
+Kaisa Kajala
