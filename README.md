@@ -41,3 +41,17 @@ Mahatma Gandhi
 > I carefully described to Huxley the shooting of the pollinia in Catasetum, and received for an answer, 'Do you really think I can believe all that?
 
 Charles Darwin
+
+---
+
+> Why should you call me to account for eating decently?
+
+George Bernard Shaw
+
+---
+
+> Just when I discovered the meaning of life, they changed it.
+
+George Carlin
+
+---
