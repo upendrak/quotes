@@ -104,3 +104,8 @@ Richard Feynman
 
 ---
 
+> When I see an actual flesh-and-blood worker in conflict with his natural enemy, the policeman, I do not have to ask myself which side I am on.
+
+George Orwell, Homage to Catalonia
+
+---
