@@ -109,3 +109,9 @@ Richard Feynman
 George Orwell, Homage to Catalonia
 
 ---
+
+> Music is the shorthand of emotion.
+
+Leo Tolstoy
+
+---
