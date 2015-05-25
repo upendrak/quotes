@@ -2,7 +2,7 @@
 
 ##About
 
-This is a collection of favorite quotes from member of the infamous Coding Collective. Add as many as you like.  
+This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git.  Add as many quotes as you like!
 
 ##Add
 
