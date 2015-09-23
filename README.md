@@ -143,3 +143,9 @@ Boris Pasternak
 > The future cannot be predicted, but futures can be invented.
 
 Dennis Gabor, Inventing the Future, 1963
+
+---
+
+> We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.
+
+Walt Disney
