@@ -139,3 +139,7 @@ Emily Dickinson
 Boris Pasternak
 
 ---
+
+> The future cannot be predicted, but futures can be invented.
+
+Dennis Gabor, Inventing the Future, 1963
