@@ -167,3 +167,9 @@ Saul Goodman
 > you have to learn the rules of the game. and then you have to play better than anyone else.
 
 Albert Einstein
+
+---
+
+> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this. 
+
+Bertrand Russell
