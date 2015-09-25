@@ -158,6 +158,12 @@ Vonnegut
 
 ---
 
->Don't drink and drive. But if you do, call me.
+> Don't drink and drive. But if you do, call me.
 
 Saul Goodman
+
+---
+
+> you have to learn the rules of the game. and then you have to play better than anyone else.
+
+Albert Einstein
