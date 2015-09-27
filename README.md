@@ -14,6 +14,13 @@ To add to the list of quotes:
 
 ##The Quotes
 
+
+> No matter where you go - there you are.
+
+Confucious 551-479 BC
+
+---
+
 > Something unknown is doing we don't know what - that is what our knowledge amounts to.
 
 Sir Arthur Eddington, 1927  
