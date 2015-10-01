@@ -190,3 +190,9 @@ Bertrand Russell
 > If you don't know where you are going, any road will get you there.
 
 Lewis Carroll
+
+---
+
+> An atom at large in the biota is too free to know freedom; an atom back in the sea has forgotten it. For every atom lost to the sea, the prairie pulls another out of the decaying rocks. The only certain truth is that its creatures must suck hard, live fast, and die often, lest its losses exceed its gains.
+
+Aldo Leopold
