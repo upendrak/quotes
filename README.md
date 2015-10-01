@@ -184,3 +184,9 @@ Albert Einstein
 > It has been said that man is a rational animal. All my life I have been searching for evidence which could support this. 
 
 Bertrand Russell
+
+---
+
+> If you don't know where you are going, any road will get you there.
+
+Lewis Carroll
