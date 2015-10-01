@@ -14,6 +14,10 @@ To add to the list of quotes:
 
 ##The Quotes
 
+> Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
+
+Oderus Urungus, 2013
+
 
 > No matter where you go - there you are.
 
