@@ -202,3 +202,10 @@ Aldo Leopold
 > The world is a book and those who do not travel read only one page.
 
 St. Augustine
+
+---
+
+> Far too often, "software engineering" is neither engineering nor about software.
+
+Bjarne Stroustrup
+
