@@ -215,3 +215,8 @@ St. Augustine
 
 Bjarne Stroustrup
 
+---
+
+> First solve the problem. Than write the code.
+
+John Johnson
