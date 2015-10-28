@@ -220,3 +220,8 @@ Bjarne Stroustrup
 > First solve the problem. Than write the code.
 
 John Johnson
+
+---
+> Web design for me is a perfect blend of arty and nerdy.
+
+Chris Coyier
