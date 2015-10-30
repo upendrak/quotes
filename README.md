@@ -225,3 +225,9 @@ John Johnson
 > Web design for me is a perfect blend of arty and nerdy.
 
 Chris Coyier
+
+---
+
+> Mystery is the source of all true art and science.
+
+Albert Einstein
