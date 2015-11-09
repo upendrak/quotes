@@ -237,3 +237,8 @@ Albert Einstein
 > Every time someone asked me why I was walking around with crab apples in my cheeks, I’d just open my hands and show them it was rubber balls I was walking around with, not crab apples, and that they were in my hands, not my cheeks.
 
 Orr (Catch-22)
+
+---
+> Be less curious about people and more curious about ideas.
+
+Marie Curie
