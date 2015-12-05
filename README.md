@@ -242,3 +242,8 @@ Orr (Catch-22)
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
+
+---
+> Hope is the thing with feathers
+
+Emily Dickinson
