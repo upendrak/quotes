@@ -248,3 +248,9 @@ Marie Curie
 > Brevity is the Soul of Wit
 
 Shakespeare
+
+---
+> But he who kisses the joy as it flies 
+Lives in eternity's sun rise.
+
+William Blake
