@@ -242,3 +242,9 @@ Orr (Catch-22)
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
+
+---
+
+> Liberate the minds of men and ultimately you will liberate the bodies of men
+
+Marcus Garvey
