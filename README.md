@@ -244,6 +244,7 @@ Orr (Catch-22)
 Marie Curie
 
 ---
+
 > Brevity is the Soul of Wit
 
 Shakespeare
@@ -258,4 +259,9 @@ William Blake
 > Liberate the minds of men and ultimately you will liberate the bodies of men
 
 Marcus Garvey
+
+---
+> Hope is the thing with feathers
+
+Emily Dickinson
 
