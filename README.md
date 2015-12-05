@@ -244,7 +244,6 @@ Orr (Catch-22)
 Marie Curie
 
 ---
-
 > Brevity is the Soul of Wit
 
 Shakespeare
@@ -254,3 +253,9 @@ Shakespeare
 Lives in eternity's sun rise.
 
 William Blake
+
+---
+> Liberate the minds of men and ultimately you will liberate the bodies of men
+
+Marcus Garvey
+
