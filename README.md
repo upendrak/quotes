@@ -265,3 +265,15 @@ Marcus Garvey
 
 Emily Dickinson
 
+---
+
+> Always forgive your enemies; nothing annoys them so much.
+
+Oscar Wilde
+
+---
+
+> There is no greater agony than bearing an untold story inside you.
+
+Maya Angelou
+
