@@ -14,10 +14,12 @@ To add to the list of quotes:
 
 ##The Quotes
 
+---
 > Trust in God, but make sure you tie up your camel.
 
 Bedouin saying
 
+---
 > Love has a tide! 
 
 Helen Hunt Jackson 
