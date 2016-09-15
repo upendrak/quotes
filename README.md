@@ -283,3 +283,9 @@ Oscar Wilde
 
 Maya Angelou
 
+---
+> You have to dream before your dreams can come true.
+
+A. P. J. Abdul Kalam
+
+---
