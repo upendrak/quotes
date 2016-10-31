@@ -295,3 +295,9 @@ A. P. J. Abdul Kalam
 Will Smith
 
 ---
+>Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.
+
+Ernest Hemingway
+
+---
+
