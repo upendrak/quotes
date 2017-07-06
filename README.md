@@ -300,4 +300,9 @@ Will Smith
 Ernest Hemingway
 
 ---
+> All Birds find shelter during a rain. But eagle avoids rain by flying above the cloud.
+
+Dr. A. P. J. Abdul Kalam
+
+---
 
