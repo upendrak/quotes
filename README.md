@@ -163,6 +163,12 @@ Emily Dickinson
 
 ---
 
+> All our dreams can come true if we have the courage to pursue them.
+
+Walt Disney
+
+---
+
 > In one corner the piano tuner struck the same chord dozens of times and scattered arpeggios like handfuls of beads.
 
 Boris Pasternak
