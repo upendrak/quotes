@@ -61,6 +61,12 @@ Mahatma Gandhi
 
 ---
 
+> Things work out best for those who make the best of how things work out.
+
+John Wood
+
+---
+
 > I carefully described to Huxley the shooting of the pollinia in Catasetum, and received for an answer, 'Do you really think I can believe all that?
 
 Charles Darwin
