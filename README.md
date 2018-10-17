@@ -61,6 +61,12 @@ Mahatma Gandhi
 
 ---
 
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+
+ALbert Einstein
+
+---
+
 > I carefully described to Huxley the shooting of the pollinia in Catasetum, and received for an answer, 'Do you really think I can believe all that?
 
 Charles Darwin
