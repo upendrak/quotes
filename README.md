@@ -67,6 +67,12 @@ ALbert Einstein
 
 ---
 
+> Things work out best for those who make the best of how things work out.
+
+John Wood
+
+---
+
 > I carefully described to Huxley the shooting of the pollinia in Catasetum, and received for an answer, 'Do you really think I can believe all that?
 
 Charles Darwin
@@ -160,6 +166,12 @@ Neil Gaiman, Coraline
 > Crumbling is not an Instant's act.
 
 Emily Dickinson
+
+---
+
+> All our dreams can come true if we have the courage to pursue them.
+
+Walt Disney
 
 ---
 
