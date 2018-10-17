@@ -61,6 +61,12 @@ Mahatma Gandhi
 
 ---
 
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+
+ALbert Einstein
+
+---
+
 > Things work out best for those who make the best of how things work out.
 
 John Wood
