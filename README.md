@@ -12,7 +12,7 @@ To add to the list of quotes:
 2.  Add your quote either directly on Github or clone to your computer and make changes
 3.  Create Pull Request.
 
-##The Quotes
+## The Quotes
 
 ---
 > To live is the rarest thing in the world. Most people exist, that is all. 
