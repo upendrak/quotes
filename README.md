@@ -2,7 +2,7 @@
 
 ## About
 
-This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git.  Add as many quotes as you like!
+This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git. Add as many quotes as you like!
 
 ## Add
 
@@ -14,21 +14,24 @@ To add to the list of quotes:
 
 ## The Quotes
 
-> To live is the rarest thing in the world. Most people exist, that is all. 
+> To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
 
 ---
+
 > Trust in God, but make sure you tie up your camel.
 
 Bedouin saying
 
 ---
-> Love has a tide! 
 
-Helen Hunt Jackson 
+> Love has a tide!
+
+Helen Hunt Jackson
 
 ---
+
 > Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
 
 Oderus Urungus, 2013
@@ -43,7 +46,7 @@ Confucious 551-479 BC
 
 > Something unknown is doing we don't know what - that is what our knowledge amounts to.
 
-Sir Arthur Eddington, 1927  
+Sir Arthur Eddington, 1927
 
 ---
 
@@ -215,7 +218,7 @@ Albert Einstein
 
 ---
 
-> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this. 
+> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this.
 
 Bertrand Russell
 
@@ -250,6 +253,7 @@ Bjarne Stroustrup
 John Johnson
 
 ---
+
 > Web design for me is a perfect blend of arty and nerdy.
 
 Chris Coyier
@@ -267,6 +271,7 @@ Albert Einstein
 Orr (Catch-22)
 
 ---
+
 > Be less curious about people and more curious about ideas.
 
 Marie Curie
@@ -278,17 +283,20 @@ Marie Curie
 Shakespeare
 
 ---
-> But he who kisses the joy as it flies 
-Lives in eternity's sun rise.
+
+> But he who kisses the joy as it flies
+> Lives in eternity's sun rise.
 
 William Blake
 
 ---
+
 > Liberate the minds of men and ultimately you will liberate the bodies of men
 
 Marcus Garvey
 
 ---
+
 > Hope is the thing with feathers
 
 Emily Dickinson
@@ -306,29 +314,165 @@ Oscar Wilde
 Maya Angelou
 
 ---
+
 > You have to dream before your dreams can come true.
 
 A. P. J. Abdul Kalam
 
 ---
 
->Life is lived on the edge.
+> Life is lived on the edge.
 
 Will Smith
 
 ---
->Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.
+
+> Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.
 
 Ernest Hemingway
 
 ---
+
 > All Birds find shelter during a rain. But eagle avoids rain by flying above the cloud.
 
 Dr. A. P. J. Abdul Kalam
 
 ---
->To confine our attention to terrestrial matters would be to limit the human spirit.
+
+> To confine our attention to terrestrial matters would be to limit the human spirit.
 
 Stephen Hawking
+
+---
+
+> A drop of honey catches more flies than a gallon of gall.
+
+Abraham Lincoln
+
+---
+
+> A foolish consistency is the hobgoblin of little minds
+
+Ralph Waldo Emerson
+
+---
+
+> Leadership is the capacity to translate vision into reality.
+
+Warren Benni
+
+---
+
+> A person can succeed at anything for which there is enthusiasm.
+
+Charles M. Schwab
+
+---
+
+> Acting on a good idea is better than just having a good idea.
+
+Robert Half
+
+---
+
+> All mankind is divided into three classes: those that are immovable, those that are movable, and those that move.
+
+Benjamin Franklin
+
+---
+
+> Attitudes are more important than facts.
+
+Dr. Karl Menninger
+
+---
+
+> Do what you can, with what you have, where you are.
+
+Theodore Roosevelt
+
+---
+
+> Don’t be afraid to take a big step if one is indicated. You can’t cross a chasm in two small jumps.
+
+David Lloyd George
+
+---
+
+> If you would not be forgotten, as soon as you are dead and rotten, either write things worth reading, or do things worth the writing.
+
+Benjamin Franklin
+
+---
+
+> Experience is the name everyone gives to their mistakes.
+
+Oscar Wilde
+
+---
+
+> Efforts and courage are not enough without purpose and direction.
+
+John F. Kennedy
+
+---
+
+> Give every man thy ear, but few thy voice.
+
+William Shakespeare
+
+---
+
+> I cannot teach anybody anything, I can only make them think.
+
+Socrates
+
+---
+
+> I will go anywhere, as long as it is forward.
+
+David Livingstone
+
+---
+
+> Nothing in life is to be feared. It is only to be understood.
+
+Marie Curie
+
+---
+
+> Nurture your mind with great thoughts.
+
+Benjamin Disraeli
+
+---
+
+> Only those who dare to fail greatly can ever achieve greatly.
+
+Robert F. Kennedy
+
+---
+
+> Imagination is more important than knowledge.
+
+Albert Einstein
+
+---
+
+> The man who does not read good books has no advantage over the man who can’t read them.
+
+Mark Twain
+
+---
+
+> The most rewarding things you do in life are often the ones that look like they cannot be done.
+
+Arnold Palme
+
+---
+
+> Our problem is not the lack of knowing; it is the lack of doing. Most people know far more than they think they do.
+
+Mark Hatfield
 
 ---
